@@ -92,8 +92,13 @@ body{
 
 .parametro-senha__botao{
   background-color: var(--cor-de-fundo);
+  color: var(--branco);
+  border: 2px solid var(--borda);
+  padding: 24px;
+  font-size: 24px:
 }
 .parametro-senha__texto{
+
 
 }
 
