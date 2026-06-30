@@ -98,7 +98,7 @@ body{
   font-size: 24px:
 }
 .parametro-senha__texto{
-
+    border-top: 2px solid var(--borda);
 
 }
 
